@@ -1,6 +1,4 @@
---upgrade pip
-setuptools>=65.0.0
-numpy
+numpy==1.22.0
 pandas
 streamlit
 streamlit-aggrid
